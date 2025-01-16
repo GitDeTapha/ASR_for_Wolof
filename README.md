@@ -50,6 +50,8 @@ To address resource constraints, we iteratively trained the model with a limited
 ## Perspectives
 
 - Enhance dataset quality by collecting more annotated audio data.
+- More training for the model
+- Extend ASR support to additional dialects of Wolof and other low-resource languages.
 - Deploy the ASR model as a user-friendly web or mobile application for broader accessibility.
 
 ## Contributing  🤝
@@ -60,5 +62,9 @@ We welcome contributions to this project! To contribute:
 2. Create a new branch (`feature/your-feature-name`).
 3. Commit your changes and push them to your forked repository.
 4. Open a pull request, detailing the changes and their purpose.
+
+## Référence
+
+Djim Momar Lo. Automatic Speech Recognition in Wolof. https://kaggle.com/competitions/asr-in-wolof, 2024. Kaggle.
 
 ---
