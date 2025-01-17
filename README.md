@@ -22,7 +22,7 @@ With three other friends, we formed the SENAI team, participated in the competit
 - Adama Traoré
 - Moustapha Fall (myself)
 
-![image prix](prix_hackaton_indaba_SENAI.jpg)
+![image prix](images/prix_hackaton_indaba_SENAI.jpg)
 
 **Resources**:
 - Raw Dataset: [IndabaxSenegal/asr-wolof-dataset](https://huggingface.co/IndabaxSenegal/asr-wolof-dataset)
