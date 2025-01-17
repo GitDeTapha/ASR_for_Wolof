@@ -14,13 +14,15 @@ Participants should note that there are hardware limitations for this hackathon:
 
 Wolof ASR technology has the potential to significantly improve accessibility for Wolof speakers in digital spaces, contributing to language preservation and enhancing inclusivity. This project aligns with the broader goals of expanding language resources in technology, empowering communities, and fostering language diversity.
 
-Along with three other friends, we participated in the competition and won 3rd prize.
+With three other friends, we formed the SENAI team, participated in the competition and won 3rd prize.
 
 **Authors**:
 - Amadou Ngam
 - Fallou Diagne
 - Adama Traoré
 - Moustapha Fall (myself)
+
+![image prix](prix_hackaton_indaba_SENAI.jpg)
 
 **Resources**:
 - Raw Dataset: [IndabaxSenegal/asr-wolof-dataset](https://huggingface.co/IndabaxSenegal/asr-wolof-dataset)
