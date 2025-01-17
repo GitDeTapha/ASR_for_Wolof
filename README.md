@@ -45,9 +45,6 @@ To address resource constraints, we iteratively trained the model with a limited
    - Processed Dataset: [TaphaFall/asr-wolof-dataset-processed-v1](https://huggingface.co/TaphaFall/asr-wolof-dataset-processed-v1)
 
 3. Train the model (example):
-   ```bash
-   python train.py --epochs 5 --batch_size 16 --dataset_path /path/to/dataset
-   ```
 
 ## Perspectives
 
